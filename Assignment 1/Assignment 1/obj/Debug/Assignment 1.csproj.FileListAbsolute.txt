@@ -1,0 +1,20 @@
+K:\University\Y2\Object-Oriented Programming\Assignment 1\Assignment 1\Assignment 1\bin\Debug\Assignment 1.exe.config
+K:\University\Y2\Object-Oriented Programming\Assignment 1\Assignment 1\Assignment 1\bin\Debug\Assignment 1.exe
+K:\University\Y2\Object-Oriented Programming\Assignment 1\Assignment 1\Assignment 1\bin\Debug\Assignment 1.pdb
+K:\University\Y2\Object-Oriented Programming\Assignment 1\Assignment 1\Assignment 1\obj\Debug\Assignment 1.csprojAssemblyReference.cache
+K:\University\Y2\Object-Oriented Programming\Assignment 1\Assignment 1\Assignment 1\obj\Debug\Assignment_1.FormMain.resources
+K:\University\Y2\Object-Oriented Programming\Assignment 1\Assignment 1\Assignment 1\obj\Debug\Assignment_1.Properties.Resources.resources
+K:\University\Y2\Object-Oriented Programming\Assignment 1\Assignment 1\Assignment 1\obj\Debug\Assignment 1.csproj.GenerateResource.cache
+K:\University\Y2\Object-Oriented Programming\Assignment 1\Assignment 1\Assignment 1\obj\Debug\Assignment 1.csproj.CoreCompileInputs.cache
+K:\University\Y2\Object-Oriented Programming\Assignment 1\Assignment 1\Assignment 1\obj\Debug\Assignment 1.exe
+K:\University\Y2\Object-Oriented Programming\Assignment 1\Assignment 1\Assignment 1\obj\Debug\Assignment 1.pdb
+E:\University\Y2\Object-Oriented Programming\Assignment 1\Assignment 1\Assignment 1\bin\Debug\Assignment 1.exe.config
+E:\University\Y2\Object-Oriented Programming\Assignment 1\Assignment 1\Assignment 1\bin\Debug\Assignment 1.exe
+E:\University\Y2\Object-Oriented Programming\Assignment 1\Assignment 1\Assignment 1\bin\Debug\Assignment 1.pdb
+E:\University\Y2\Object-Oriented Programming\Assignment 1\Assignment 1\Assignment 1\obj\Debug\Assignment 1.csprojAssemblyReference.cache
+E:\University\Y2\Object-Oriented Programming\Assignment 1\Assignment 1\Assignment 1\obj\Debug\Assignment_1.FormMain.resources
+E:\University\Y2\Object-Oriented Programming\Assignment 1\Assignment 1\Assignment 1\obj\Debug\Assignment_1.Properties.Resources.resources
+E:\University\Y2\Object-Oriented Programming\Assignment 1\Assignment 1\Assignment 1\obj\Debug\Assignment 1.csproj.GenerateResource.cache
+E:\University\Y2\Object-Oriented Programming\Assignment 1\Assignment 1\Assignment 1\obj\Debug\Assignment 1.csproj.CoreCompileInputs.cache
+E:\University\Y2\Object-Oriented Programming\Assignment 1\Assignment 1\Assignment 1\obj\Debug\Assignment 1.exe
+E:\University\Y2\Object-Oriented Programming\Assignment 1\Assignment 1\Assignment 1\obj\Debug\Assignment 1.pdb
